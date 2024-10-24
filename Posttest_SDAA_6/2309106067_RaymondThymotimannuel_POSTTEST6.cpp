@@ -1,3 +1,7 @@
+//Raymond Thymotimannuel
+//2309106067
+//Informartika B1'23
+
 #include <iostream>
 #include <string>
 #include <vector>
